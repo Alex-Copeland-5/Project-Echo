@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2025-12-1",
+  "audience": "Projects for CIS-376",
+  "projects": [
+    {
+      "name": "Project Alpha",
+      "repo": "https://github.com/Alex-Copeland-5/alex-copeland-5",
+      "img": "http://127.0.0.1:5500/images/dev-profile.png"
+    },
+    {
+      "name": "Project Bravo",
+      "repo": "https://alex-copeland-5.github.io/project-bravo/",
+      "img": "http://127.0.0.1:5500/images/GameSnippet.png"
+    },
+    {
+      "name": "Project Charlie",
+      "repo": "https://alex-copeland-5.github.io/group-project-charlie/",
+      "img": "http://127.0.0.1:5500/images/charlie.jpg"
+    },
+    {
+      "name": "Project Delta",
+      "repo": "https://alex-copeland-5.github.io/Project-Delta/",
+      "img": "http://127.0.0.1:5500/images/bm-ui-1.png"
+    },
+    {
+      "name": "Cryptography Project",
+      "repo": "https://www.overleaf.com/project/673fa80175b53df5e81e4104",
+      "img": "http://127.0.0.1:5500/images/cypher-image.png"
+    },
+    {
+      "name": "Tuberculosis Project",
+      "repo": "https://www.overleaf.com/project/673cc43341b6719127841ea7",
+      "img": "https://alex-copeland-5.github.io/alex-copeland-5/images/tuberculosis-image.jpg"
+    },
+    {
+      "name": "Research Presentation",
+      "repo": "https://www.overleaf.com/project/6806ae965d93da3b9d7c60d2",
+      "img": "http://127.0.0.1:5500/images/cayley-table.png"
+    },
+    {
+      "name": "Data Analyitcs Project",
+      "repo": "https://github.com/Alex-Copeland-5/DA-460-Project",
+      "img": "http://127.0.0.1:5500/images/k-nn.png"
+    }
+  ]
+}
